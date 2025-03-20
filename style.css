@@ -1,0 +1,19 @@
+.geral {
+    border: solid black 2px;
+    padding: 20px;
+}
+
+.corpo {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.eu {
+    width: 20%;
+    height: 20%;
+    border-radius: 200px;
+}
+
+.cabecalho {
+    text-align: center;
+}
